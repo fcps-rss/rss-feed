@@ -237,16 +237,16 @@ const generateMainHTML = (metadata) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RSS Feed Aggregator</title>
+    <title>FCPS News</title>
     <link rel="stylesheet" href="css/styles.css">
     <meta name="description" content="Aggregated RSS feeds from ${metadata.totalFeeds} sources">
 </head>
 <body>
     <div class="rss-feed-container">
         <header class="rss-feed-header">
-            <h1>RSS Feed Aggregator</h1>
+            <h1>FCPS News</h1>
             <p class="rss-feed-description">
-                Latest news from ${metadata.totalFeeds} sources • 
+                Latest school news from ${metadata.totalFeeds} sources • 
                 ${metadata.totalItems} articles • 
                 Last updated: <span id="last-updated"></span>
             </p>
@@ -254,7 +254,7 @@ const generateMainHTML = (metadata) => {
                 <select id="category-filter">
                     <option value="all">All Categories</option>
                 </select>
-                <input type="search" id="search-input" placeholder="Search articles...">
+                <input type="search" id="search-input" placeholder="Search school news...">
             </div>
         </header>
         
