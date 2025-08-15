@@ -1,0 +1,44 @@
+title: RSS Feed Aggregator
+description: A secure, static RSS feed aggregator built with GitHub Pages
+baseurl: ""
+url: ""
+
+# GitHub Pages settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude build files from site
+exclude:
+  - node_modules/
+  - scripts/
+  - package.json
+  - package-lock.json
+  - .github/
+  - README.md
+  - config/
+
+# Include dist directory
+include:
+  - dist/
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Fetch RSS and build
+        run: node build-rss.js
+        
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

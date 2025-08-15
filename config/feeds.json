@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Aldrin Elementary News",
+    "url": "https://public.govdelivery.com/topics/Aldrin_ES_News/feed.rss",
+    "category": "school"
+  },
+  {
+    "name": "Annandale High School",
+    "url": "https://public.govdelivery.com/topics/Annandale_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "Annandale Terrace Elementary School",
+    "url": "https://public.govdelivery.com/topics/Annandale_Terrace_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Armstrong Elementary School",
+    "url": "https://public.govdelivery.com/topics/Armstrong_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bailey's Lower",
+    "url": "https://public.govdelivery.com/topics/Baileys_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bailey's Upper",
+    "url": "https://public.govdelivery.com/topics/Baileys_Upper_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Beech Tree Elementary School",
+    "url": "https://public.govdelivery.com/topics/Beech_Tree_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Belle View Elementary School",
+    "url": "https://public.govdelivery.com/topics/Belle_View_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Belvedere Elementary School",
+    "url": "https://public.govdelivery.com/topics/Belvedere_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bonnie Brae Elementary School",
+    "url": "https://public.govdelivery.com/topics/Bonnie_Brae_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Braddock Elementary School",
+    "url": "https://public.govdelivery.com/topics/Braddock_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bren Mar Park Elementary School",
+    "url": "https://public.govdelivery.com/topics/Bren_Mar_Park_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Brookfield Elementary School",
+    "url": "https://public.govdelivery.com/topics/Brookfield_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bucknell Elementary School",
+    "url": "https://public.govdelivery.com/topics/Bucknell_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Bull Run Elementary School",
+    "url": "https://public.govdelivery.com/topics/Bull_Run_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Burke School",
+    "url": "https://public.govdelivery.com/topics/Burke_School_News/feed.rss",
+    "category": "special"
+  },
+  {
+    "name": "Bush Hill Elementary School",
+    "url": "https://public.govdelivery.com/topics/Bush_Hill_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Cameron Elementary School",
+    "url": "https://public.govdelivery.com/topics/Cameron_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Canterbury Woods Elementary School",
+    "url": "https://public.govdelivery.com/topics/Canterbury_Woods_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Cardinal Forest Elementary School",
+    "url": "https://public.govdelivery.com/topics/Cardinal_Forest_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Carson Middle School",
+    "url": "https://public.govdelivery.com/topics/Carson_MS_News/feed.rss",
+    "category": "middle"
+  },
+  {
+    "name": "Cedar Lane School",
+    "url": "https://public.govdelivery.com/topics/Cedar_Lane_School_NEWS/feed.rss",
+    "category": "special"
+  },
+  {
+    "name": "Centre Ridge Elementary School",
+    "url": "https://public.govdelivery.com/topics/Centre_Ridge_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Centreville Elementary School",
+    "url": "https://public.govdelivery.com/topics/Centreville_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Centreville High School",
+    "url": "https://public.govdelivery.com/topics/Centreville_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "Chantilly Academy",
+    "url": "https://public.govdelivery.com/topics/Chantilly_Academy_News/feed.rss",
+    "category": "academy"
+  },
+  {
+    "name": "Chantilly High School",
+    "url": "https://public.govdelivery.com/topics/Chantilly_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "Cherry Run Elementary School",
+    "url": "https://public.govdelivery.com/topics/Cherry_Run_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Chesterbrook Elementary School",
+    "url": "https://public.govdelivery.com/topics/Chesterbrook_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Churchill Road Elementary School",
+    "url": "https://public.govdelivery.com/topics/Churchill_Road_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Clearview Elementary School",
+    "url": "https://public.govdelivery.com/topics/Clearview_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Clermont Elementary School",
+    "url": "https://public.govdelivery.com/topics/Clermont_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Coates Elementary School",
+    "url": "https://public.govdelivery.com/topics/Coates_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Columbia Elementary School",
+    "url": "https://public.govdelivery.com/topics/Columbia_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Colvin Run Elementary School",
+    "url": "https://public.govdelivery.com/topics/Colvin_Run_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Cooper Middle School",
+    "url": "https://public.govdelivery.com/topics/Cooper_MS_Topic_1/feed.rss",
+    "category": "middle"
+  },
+  {
+    "name": "Crestwood Elementary School",
+    "url": "https://public.govdelivery.com/topics/Crestwood_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Crossfield Elementary School",
+    "url": "https://public.govdelivery.com/topics/Crossfield_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Cub Run Elementary School",
+    "url": "https://public.govdelivery.com/topics/Cub_Run_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Cunningham Park Elementary School",
+    "url": "https://public.govdelivery.com/topics/Cunningham_Park_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Daniels Run Elementary School",
+    "url": "https://public.govdelivery.com/topics/Daniels_Run_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Davis Career Center",
+    "url": "https://public.govdelivery.com/topics/Davis_Career_Center_News/feed.rss",
+    "category": "career"
+  },
+  {
+    "name": "Deer Park Elementary School",
+    "url": "https://public.govdelivery.com/topics/Deer_Park_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Dogwood Elementary School",
+    "url": "https://public.govdelivery.com/topics/Dogwood_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Dranesville Elementary School",
+    "url": "https://public.govdelivery.com/topics/Dranesville_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Eagle View Elementary School",
+    "url": "https://public.govdelivery.com/topics/Eagle_View_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Edison Academy",
+    "url": "https://public.govdelivery.com/topics/Edison_Academy_News/feed.rss",
+    "category": "academy"
+  },
+  {
+    "name": "Edison High School",
+    "url": "https://public.govdelivery.com/topics/Edison_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "Fairfax Academy",
+    "url": "https://public.govdelivery.com/topics/Fairfax_Academy_News/feed.rss",
+    "category": "academy"
+  },
+  {
+    "name": "Fairfax High School",
+    "url": "https://public.govdelivery.com/topics/Fairfax_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "Fairfax Villa Elementary School",
+    "url": "https://public.govdelivery.com/topics/Fairfax_Villa_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Fairhill Elementary School",
+    "url": "https://public.govdelivery.com/topics/Fairhill_ES_News/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Fairview Elementary School",
+    "url": "https://public.govdelivery.com/topics/Fairview_ES_NEWS/feed.rss",
+    "category": "elementary"
+  },
+  {
+    "name": "Falls Church Academy",
+    "url": "https://public.govdelivery.com/topics/Falls_Church_Academy_News/feed.rss",
+    "category": "academy"
+  },
+  {
+    "name": "Falls Church High School",
+    "url": "https://public.govdelivery.com/topics/Falls_Church_HS_News/feed.rss",
+    "category": "high"
+  },
+  {
+    "name": "FCPS School Board Springfield District",
+    "url": "https://public.govdelivery.com/topics/SB_Springfield_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Wellness Newsletter",
+    "url": "https://public.govdelivery.com/topics/DSS_Wellness/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Employee News",
+    "url": "https://public.govdelivery.com/topics/FCPS_Employees_ALL/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "School Board Mason District",
+    "url": "https://public.govdelivery.com/topics/SB_Mason_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Family Resource Newsletters",
+    "url": "https://public.govdelivery.com/topics/PRC/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Military Families",
+    "url": "https://public.govdelivery.com/topics/FSP_Military_Families/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Safe Routes to School",
+    "url": "https://public.govdelivery.com/topics/IS_Safe_Routes_to_School/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Special Education Update",
+    "url": "https://public.govdelivery.com/topics/DSS_Special_Education_News/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Member at Large (Ryan McElveen)",
+    "url": "https://public.govdelivery.com/topics/SB_At_Large_Ryan_McElveen/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Mount Vernon District",
+    "url": "https://public.govdelivery.com/topics/SB_Mount_Vernon_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Member at Large (Kyle McDaniel)",
+    "url": "https://public.govdelivery.com/topics/SB_At_Large_Kyle_McDaniel/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Member at Large (Ilryong Moon)",
+    "url": "https://public.govdelivery.com/topics/SB_At_Large_Ilryong_Moon/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Sully District",
+    "url": "https://public.govdelivery.com/topics/SB_Sully_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Franconia District",
+    "url": "https://public.govdelivery.com/topics/SB_Franconia_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Dranesville District",
+    "url": "https://public.govdelivery.com/topics/SB_Dranesville_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Braddock District",
+    "url": "https://public.govdelivery.com/topics/SB_Braddock_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Providence District",
+    "url": "https://public.govdelivery.com/topics/SB_Providence_District/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS Tuesday Tips",
+    "url": "https://public.govdelivery.com/topics/FSP/feed.rss",
+    "category": "district"
+  },
+  {
+    "name": "FCPS School Board Hunter District",
+    "url": "https://public.govdelivery.com/topics/SB_Hunter_Mill_District/feed.rss",
+    "category": "district"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "rss-feed-github-pages",
+  "version": "1.0.0",
+  "description": "Static RSS feed aggregator for GitHub Pages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build-rss.js",
+    "build-individual": "node scripts/build-individual-feeds.js",
+    "test-individual": "node scripts/test-individual-feeds.js",
+    "quick-test": "node scripts/quick-test.js",
+    "serve": "npx http-server dist -p 3000 -c-1 -o",
+    "dev": "npm run test-local && npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "@xmldom/xmldom": "^0.8.10",
+    "sanitize-html": "^2.11.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/rss-feed-github-pages.git"
+  },
+  "keywords": ["rss", "github-pages", "static-site"],
+  "author": "",
+  "license": "MIT"
+}
