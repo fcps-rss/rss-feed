@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FCPS News</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="description" content="Aggregated RSS feeds from 224 sources">
+</head>
+<body>
+    <div class="rss-feed-container">
+        <header class="rss-feed-header">
+            <h1>FCPS News</h1>
+            <p class="rss-feed-description">
+                Latest school news from 224 sources • 
+                5354 articles • 
+                Last updated: <span id="last-updated"></span>
+            </p>
+            <div class="filter-controls">
+                <select id="category-filter">
+                    <option value="all">All Categories</option>
+                </select>
+                <input type="search" id="search-input" placeholder="Search school news...">
+            </div>
+        </header>
+        
+        <main>
+            <div id="loading" class="rss-loading">Loading articles...</div>
+            <div id="error" class="rss-error" style="display: none;"></div>
+            <div id="rss-items" class="rss-items"></div>
+            
+            <nav id="pagination" class="pagination" style="display: none;">
+                <button id="prev-btn" class="pagination-btn">Previous</button>
+                <span id="page-info" class="page-info"></span>
+                <button id="next-btn" class="pagination-btn">Next</button>
+            </nav>
+        </main>
+    </div>
+    
+    <script src="js/app.js"></script>
+</body>
+</html>
